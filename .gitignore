@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Projeto: banco SQLite gerado a partir do CSV (nao versionar)
+*.db
+*.sqlite
+*.sqlite3
+
+# Instrucoes pessoais do Claude Code (nao versionar)
+CLAUDE.md
