@@ -119,7 +119,7 @@ py -m jupyter notebook notebooks/analise_titanic.ipynb
 
 ## 🎓 O que aprendi com este projeto
 
-- **SQL:** `GROUP BY`, `CASE WHEN`, `JOIN`, agregações (`COUNT`, `AVG`, `MIN`, `MAX`), cruzamentos de variáveis
+- **SQL:** `GROUP BY` (inclusive por múltiplas colunas), `CASE WHEN`, `ORDER BY`, agregações (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`), tratamento de `NULL` e cruzamentos de variáveis
 - **SQLite3 em Python:** criar conexão, executar queries com `cursor`, fechar conexão corretamente
 - **Estatística por dentro:** implementar média, mediana, moda, variância e desvio-padrão sem funções prontas — e entender por que cada fórmula é o que é
 - **Assimetria na prática:** ver a diferença entre média e mediana em dados reais, não só em exemplos didáticos
